@@ -19,4 +19,5 @@ window.onload = function () {
   peek.addEventListener("click", function() {
     display.innerHTML = stack.peek();
   });
+
 };
